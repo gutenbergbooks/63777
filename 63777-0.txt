@@ -13,7 +13,7 @@ Author: Jean Giraudoux
 
 Illustrator: Maxime Dethomas
 
-Release Date: November 16, 2020 [EBook #63777]
+Release Date: November 15, 2020 [EBook #63777]
 
 Language: French
 
@@ -28,7 +28,7 @@ Produced by Laurent Vogel, Hans Pieterse, The Internet
 Archive (Canadian Libraries) and the Online Distributed
 Proofreading Team at https://www.pgdp.net (This file was
 produced from images generously made available by the
-Bibliothèque nationale de France (BnF/Gallica) at
+BibliothÃ¨que nationale de France (BnF/Gallica) at
 http://gallica.bnf.fr)
 
 
@@ -2956,7 +2956,7 @@ Produced by Laurent Vogel, Hans Pieterse, The Internet
 Archive (Canadian Libraries) and the Online Distributed
 Proofreading Team at https://www.pgdp.net (This file was
 produced from images generously made available by the
-Bibliothèque nationale de France (BnF/Gallica) at
+BibliothÃ¨que nationale de France (BnF/Gallica) at
 http://gallica.bnf.fr)
 
 Updated editions will replace the previous one--the old editions will
